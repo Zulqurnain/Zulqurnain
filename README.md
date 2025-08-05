@@ -3,10 +3,10 @@
 🔭 I’m currently working on an **AI-driven expense tracker app in Flutter** with on-device ML for smart categorization
 
 
-📱 I build **Android (Kotlin/Jetpack Compose)** and **iOS (Swift/Flutter)** apps with production-level CI/CD workflows
+📱 I build **Android (Kotlin/Jetpack Compose)** and **iOS (Swift/Flutter)** and **Web Apps (Python/GO/Java SprintBoot/API)** apps with production-level CI/CD workflows
 
 
-👯 I’m looking to collaborate on **React Native/React.js UI libraries** and **Node.js GraphQL microservices**
+👯 I’m looking to collaborate on **React Native/React.js UI libraries** and **Node.js GraphQL microservices** and **Python Based Projects**
 
 
 🤝 I’m looking for help with **TensorFlow Lite model pruning on mobile** and **Dockerizing Express.js APIs**
@@ -15,7 +15,7 @@
 🌱 I’m currently learning **Apollo GraphQL subscriptions** and **advanced Flutter state management with Riverpod 2.0**
 
 
-💬 Ask me about **cross-platform mobile architecture (Flutter/Kotlin Multiplatform)**, building **Node.js backends**, or setting up **CI/CD for Android & iOS**
+💬 Ask me about **cross-platform mobile architecture (Flutter/Kotlin Multiplatform)**, building **Node.js backends**, **Python/GO** or setting up **CI/CD for Android & iOS**
 
 
 ⚡ Fun fact: I turned a 5,000-line Python script into a reusable **Flutter plugin** in one weekend 🚀
