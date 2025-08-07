@@ -1,26 +1,14 @@
 # 💫 Zulqurnain Haider:
 
-🔭 I’m currently working on an **AI-driven expense tracker app in Flutter** with on-device ML for smart categorization
-
+🔭 I’m currently working on an **AI-driven GO App To Automate Daily VA Task with less tokens** with on-device ML for smart categorization
 
 📱 I build **Android (Kotlin/Jetpack Compose)** and **iOS (Swift/Flutter)** and **Web Apps (Python/GO/Java SprintBoot/API)** apps with production-level CI/CD workflows
 
-
-👯 I’m looking to collaborate on **React Native/React.js UI libraries** and **Node.js GraphQL microservices** and **Python Based Projects**
-
-
-🤝 I’m looking for help with **TensorFlow Lite model pruning on mobile** and **Dockerizing Express.js APIs**
-
-
-🌱 I’m currently learning **Apollo GraphQL subscriptions** and **advanced Flutter state management with Riverpod 2.0**
-
-
 💬 Ask me about **cross-platform mobile architecture (Flutter/Kotlin Multiplatform)**, building **Node.js backends**, **Python/GO** or setting up **CI/CD for Android & iOS**
-
 
 ⚡ Fun fact: I turned a 5,000-line Python script into a reusable **Flutter plugin** in one weekend 🚀
 
-## 🚀 My Project Portfolio
+## 🚀 My Project Portfolio / Contributed Projects
 
 | [![Victoria's Secret](https://play-lh.googleusercontent.com/G8r8SvkgHSY2hw0fyUnBnx53WgboLyzscnd1jClhP1bu7fPUhueFLczHFf8SMIIA2g=s70)](https://play.google.com/store/apps/details?id=com.victoriassecret.vsaa) <br> **Victoria's Secret** <br> Fashion app with Kotlin & CI/CD | [![SWVL Rider](https://mir-s3-cdn-cf.behance.net/projects/404/760d0180082773.Y3JvcCwzMTcxLDI0ODEsNDE2LDA.png)](https://play.google.com/store/apps/details?id=io.swvl.customer) <br> **SWVL Rider** <br> Ride app, Kotlin frontend | [![SWVL Captain](https://play-lh.googleusercontent.com/KDjJYyErQqLWeI7DAiBJNnCR-NIJ2OzNRatvoSORVICjW89GpyLwtutwDUBQ8ct3FLY=s70)](https://play.google.com/store/apps/details?id=io.swvl.captain) <br> **SWVL Captain** <br> Driver app with routing | [![Cheetay](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/3a/02/d23a0256-a2a6-fc6b-087f-0d064e2688e4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg=s70)](https://www.apkshub.com/app/com.app.cheetay) <br> **Cheetay** <br> Delivery app with Kotlin & Firebase | [![AySAP](https://images.sftcdn.net/images/t_app-icon-m/p/8072bade-d2ca-4946-bdc5-341b17034a56/1796539678/aysap-logo=s70)](https://apkpure.com/aysap/com.cheetay.riderapp) <br> **AySAP** <br> Rider GPS & loyalty | [![CoCare](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/27/c6/f8/27c6f875-2bc2-7948-2f4e-09f9624eeaf7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp=s70)](https://apps.apple.com/fj/app/cocare-app/id1519416410) <br> **CoCare** <br> Contact tracing app |
 |---|---|---|---|---|---|
