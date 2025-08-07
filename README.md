@@ -1,4 +1,11 @@
 # 💫 Zulqurnain Haider:
+<p align="right">
+  <a href="https://drive.google.com/file/d/1beCu_IlFj0ubUywBAkTzjEmSsle6q3FJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Download%20CV-%E2%86%97-blue?style=for-the-badge" alt="Resume ↗" />
+  </a>
+</p>
+
+
 
 🔭 I’m currently working on an **AI-driven GO App To Automate Daily VA Task with less tokens** with on-device ML for smart categorization
 
