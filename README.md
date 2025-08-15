@@ -1,6 +1,6 @@
 # 💫 Zulqurnain Haider
 <p align="right">
-  <a href="https://drive.google.com/file/d/1feiEK8syZQCPJm3wKaQiCvWVve_aC7lX/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1oVCrLiieTYgFvLBdKI0-PcjmR4lOnfBh/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Download%20CV-%E2%86%97-blue?style=for-the-badge" alt="Resume ↗" />
   </a>
 </p>
